@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @micaelvitor
-- 👀 I’m interested in PYTHON!
-- 🌱 I’m currently learning PAWN/C/C++
-- 💞️ I’m looking to collaborate on Pawn and SA-MP things
-- 📫 How to reach me micael_vitor@yahoo.com.br
+👋 Olá! Sou arquiteto de soluções Azure
+💻 Sou um desenvolvedor pleno com uma paixão especial pela área da Saúde. 
+🏥 Quando não estou ocupado criando soluções inovadoras, você pode me encontrar mergulhando na programação, com PHP, Javascript, Typescript, React, Vue-JS, Python, C e C#. 
+🚀 Atualmente, estou aprendendo RUST! 🦀 Com uma experiência valiosa em software house e sustentação de software, estou sempre pronto para enfrentar desafios e encontrar soluções criativas. 
 
-<!---
-micaelvitor/micaelvitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ Vamos juntos construir o futuro da tecnologia! 🌟
