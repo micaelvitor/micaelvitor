@@ -2,7 +2,7 @@
 - I'm a Solutions Archtet and Developer
 
 - 🌱 Studying <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-- 👯 Currently working on developing a website and completing projects on the side!
+- 👯 Currently working as Developer/Solutions Archtet on health area
 - 💬 Always looking for ways to improve learning and always looking for new knowledge in the area of ​​technology
 
 ##
