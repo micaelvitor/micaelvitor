@@ -1,7 +1,7 @@
 - 👋 Hello my name is Micael Vitor and welcome to my profile
 - I'm a Solutions Archtet and Developer
 
-- 🌱 Studying <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" /> , <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> and <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+- 🌱 Studying <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 - 👯 Currently working on developing a website and completing projects on the side!
 - 💬 Always looking for ways to improve learning and always looking for new knowledge in the area of ​​technology
 
