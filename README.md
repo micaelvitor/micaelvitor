@@ -1,5 +1,5 @@
 - 👋 Hello my name is Micael Vitor and welcome to my profile
-- I'm a Solutions Architect and Developer
+- 🏛️ I'm a Solutions Architect and Developer
 
 - 🌱 Studying <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" />
 - 👯 Currently working as Developer/Solutions architect on health area
