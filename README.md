@@ -2,7 +2,7 @@
 - 🏛️ I'm a Solutions Architect and Developer
 
 - 🌱 Studying <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" />
-- 👯 Currently working as Developer/Solutions architect on health area
+- 👯 Currently working as Developer/Solutions architect at REVI!
 - 💬 Always looking for ways to improve learning and always looking for new knowledge in the area of ​​technology
 
 ##
